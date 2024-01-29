@@ -52,7 +52,9 @@ The API will be accessible at `http://127.0.0.1:8000/`.
 
 - **URL:** `/`
 - **Method:** `GET, POST`
-- **Response:{
+- **Response:**
+  ```json
+  {
     "animes": [
       {
         "title": "My Hero Academia",
@@ -61,8 +63,7 @@ The API will be accessible at `http://127.0.0.1:8000/`.
         "episodes": 100
       }, ...
     ]
-}**
-  ```json
+}
 
 
 ### Get Specific Anime via id
