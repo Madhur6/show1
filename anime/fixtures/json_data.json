@@ -1,0 +1,22 @@
+{
+    "animes": [
+      {
+        "title": "My Hero Academia",
+        "genre": ["Action", "Superhero", "Shonen"],
+        "studio": "Bones",
+        "episodes": 100
+      },
+      {
+        "title": "Attack on Titan",
+        "genre": ["Action", "Dark Fantasy", "Thriller"],
+        "studio": "Wit Studio",
+        "episodes": 75
+      },
+      {
+        "title": "One Punch Man",
+        "genre": ["Action", "Comedy", "Superhero"],
+        "studio": "Madhouse",
+        "episodes": 24
+      }
+    ]
+}
